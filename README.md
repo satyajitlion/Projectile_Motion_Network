@@ -12,5 +12,25 @@ The neural network consists of:
 The model was trained for 10 epochs with Adam optimizer and MSE loss function.
 
 ![Figure1](training_performance.jpg)
-Figure 1: Training and validation loss across epochs showing convergence.
+
+*Figure 1: Training and validation loss across epochs showing convergence.*
+
+## 3. Prediction Accuracy
+Comparison between actual and predicted range values on test data:
+
+![Figure2](prediction_vs_actual.jpg)
+
+*Figure 2: Scatter plot showing strong correlation between predicted and actual range values (R² = [empty for now]).*
+
+## 4. Error Analysis
+Distribution of prediction errors:
+
+![Figure3](error_distribution.jpg)
+
+*Figure 3: Histogram of prediction errors showing mean error of {mean_error}m and standard deviation of [empty for now].*
+
+## 5. 3D Surface Visualization
+Comparison between neural network predictions and theoretical physics:
+
+![Figure4](3Dgraph.jpg)
 
