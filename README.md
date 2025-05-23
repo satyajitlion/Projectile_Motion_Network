@@ -60,12 +60,12 @@ This document presents a graphical analysis of a neural network trained to predi
 ## 8. Key Findings
 1. The neural network achieved a mean absolute error of {MAE_value}m on test data
 2. Maximum errors occur at:
-  -   High velocities (> {velocity_threshold} m/s)
-  -   Extreme angles (< {angle_threshold}° or > {90-angle_threshold}°)
+    - High velocities (> {velocity_threshold} m/s)
+    - Extreme angles (< {angle_threshold}° or > {90-angle_threshold}°)
 4. The model captures the fundamental physics:
-  -   Quadratic dependence on velocity
-  -   Sinusoidal dependence on angle
-  -   Maximum range at 45° for the given velocity.
+    - Quadratic dependence on velocity
+    - Sinusoidal dependence on angle
+    - Maximum range at 45° for the given velocity.
 
 ## 9. Future Improvements
 1. Increase training data at edge cases (high velocity, extreme angles)
