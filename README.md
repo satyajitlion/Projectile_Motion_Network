@@ -34,3 +34,14 @@ Comparison between neural network predictions and theoretical physics:
 
 ![Figure4](3Dgraph.jpg)
 
+*Figure 4: (Left) NN predictions, (Middle) Theoretical physics, (Right) Prediction errors. The neural network closely approximates the theoretical model.*
+
+## 6. Contour Analysis
+Detailed view of range predictions across parameter space:
+
+![Figure5](contours.jpg)
+
+*Figure 5: Contour plots showing (Left) NN predictions, (Middle) Theoretical values, (Right) Error magnitudes.*
+
+## 7. Slice Analysis
+Range vs Velocity at 45°
