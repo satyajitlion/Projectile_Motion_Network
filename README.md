@@ -1,6 +1,6 @@
 # Projectile Motion Network 
 
-This document presents a graphical analysis of a neural network trained to predict the range of projectile motion based on initial velocity and launch angle.
+This document presents a graphical analysis of a neural network trained to predict the range of projectile motion based on initial velocity and launch angle. 
 
 ## 1. Model Architecture
 ### The neural network consists of:
